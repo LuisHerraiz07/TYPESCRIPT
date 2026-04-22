@@ -1,0 +1,13 @@
+{
+  "name": "modulo-1",
+  "version": "1.0.0",
+  "description": "Módulo 1 — Tipos primitivos, inferencia y lógica pura",
+  "scripts": {
+    "dev":   "npx tsx src/index.ts",
+    "build": "npx tsc"
+  },
+  "devDependencies": {
+    "typescript": "^5.4.5",
+    "tsx":        "^4.11.0"
+  }
+}

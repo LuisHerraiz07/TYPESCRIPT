@@ -1,0 +1,13 @@
+{
+  "name": "modulo-2",
+  "version": "1.0.0",
+  "description": "Módulo 2 — Modelado de datos complejo, patrones y genéricos",
+  "scripts": {
+    "dev":       "npx tsx src/index.ts",
+    "typecheck": "npx tsc --noEmit"
+  },
+  "devDependencies": {
+    "typescript": "^5.4.5",
+    "tsx":        "^4.11.0"
+  }
+}
